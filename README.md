@@ -1,45 +1,61 @@
-# Hello world, my Name is Trey
+# Hello world! My name is Trey
 
-## Musician, creator, and native Floridian
+## Musician, Creator, and Coder
 
-- :mortar_board: I'm currently pursuing an associate's degree in Web Development at [BrowardCollege]!
-- :coffee: I'm currently preparing for the CompTIA [networkPlus] and [projectPlus] exams
+- :mortar_board: I'm pursuing an associate's degree in Web Development at [BrowardCollege]
+
+- :coffee: I'm preparing for the CompTIA [Network+] and [Project+] exams
+
 - :musical_keyboard: My passion is electronic music
-- :thumbsup: I'm open to collaboration
-- :computer: My Goal is helping artists acheive dreams through technology
 
-<br\>
+- :computer: My Goal is to help others acheive their dreams through technology
+
+- :thumbsup: I'm open to collaboration
+
+---
 
 ### Certifications
 
-- CompTIA A+ [aPlus]
+- [CompTIA A+]
 
-<br\>
+---
 
 ### Development Tools
 
-- HTML5
-- CSS
-- JavaScript
+- HTML5![HTML5_Image](https://img.icons8.com/color/48/html-5--v1.png)
 
-<br\>
+- CSS![CSS3_Image](https://img.icons8.com/color/48/css3.png)
+
+- JavaScript![JavaScript_Image](https://img.icons8.com/color/48/javascript--v1.png)
+
+---
 
 ### Audio Software
 
 - [Ableton] Live
 
-<br\>
+---
 
-### Check Me Out
+### Get in touch
 
-- [linkedin]
-- [gitHub]
-- [soundcloud]
+- [LinkedIn] ![LinkedIn_Image](https://img.icons8.com/fluency/48/linkedin.png)
 
-[linkedin]: https://www.linkedin.com/in/trey-dolan-0a454411b/
-[soundcloud]: https://soundcloud.com/trey-dolan?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+- [GitHub]![GitHub_Image](https://img.icons8.com/ios-filled/48/github.png)
+
+- [Soundcloud]![Soundcloud_Image](https://img.icons8.com/color/48/soundcloud.png)
+
+[GitHub]: https://github.com/treydolan
+
+[LinkedIn]: https://www.linkedin.com/in/trey-dolan-0a454411b/
+
+[Soundcloud]: https://soundcloud.com/trey-dolan?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
 [BrowardCollege]: https://www.broward.edu/
+
 [Ableton]: https://www.ableton.com/en/
-[aPlus]: https://www.comptia.org/certifications/a
-[networkPlus]: https://www.comptia.org/certifications/network
-[projectPlus]: https://www.comptia.org/certifications/project
+
+[CompTIA A+]: https://www.comptia.org/certifications/a
+
+[Network+]: https://www.comptia.org/certifications/network
+
+[Project+]: https://www.comptia.org/certifications/project
